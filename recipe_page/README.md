@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://eloquent-mcnulty-6c0379.netlify.app/">
+    <a href=https://eloquent-mcnulty-6c0379.netlify.app/">
       Demo
     </a>
     <span> | </span>
@@ -27,13 +27,6 @@
 ## Overview
 
 ![screenshot](./cheesecake.jpg)
-
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
-
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
 
 ### Built With
 
